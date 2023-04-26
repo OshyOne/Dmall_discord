@@ -1,0 +1,24 @@
+{
+  "name": "massdm",
+  "version": "1.0.0",
+  "description": "Message ",
+  "main": "script.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/OshyOne"
+  },
+  "author": "oshywsh",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/OshyOne"
+  },
+  "homepage": "https://github.com/OshyOne",
+  "dependencies": {
+    "chalk": "^4.1.2",
+    "discord.js": "^12.5.3",
+    "gradient-string": "^2.0.2"
+  }
+}
