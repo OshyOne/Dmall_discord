@@ -37,9 +37,6 @@ Mettez votre jeton de bot dans le `settings.json`.
 
 ![Résultat](https://media.discordapp.net/attachments/790498161533517835/864837793510064138/unknown.png)
 
-**Installation:**
-1. Exécutez le fichier `Launch.bat` pour installer les modules requis.
-2. Exécutez le fichier `run.bat` pour démarrer le programme.
 
 **Remarque :** Toutes les intentions de vos bots doivent être activées. Comment faire ? `Dev Portal > Bot > Privileged Gateway Intents` **(activez les deux intentions)**
 
