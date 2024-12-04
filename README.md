@@ -54,4 +54,7 @@ Les bots non vérifiés ne peuvent pas Masser les serveurs DM de plus de 1 000 m
 ## Contactez moi
 
 ﹒[Discorde](https://discord.com/users/923619890873643041)
+
+en cas de souci https://discord.gg/f9j8p4yjyS  me ping et je serais la pour vour offrir un vrais bot dmall 100% gratuit sans payer sans problème 
+
  
